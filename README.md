@@ -1,8 +1,7 @@
 # CRUD-API-Store
 Project for Spinny
 
-# Title:
-API Service for CRUD
+# Title: API Service for CRUD
  
 ## Description
 Consider a store which has an inventory of boxes which are all cuboid(which have length, breadth and height). Each Cuboid has been added by a store employee who is associated as the creator of the box even if it is updated by any user later on.
