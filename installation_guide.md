@@ -18,7 +18,7 @@ To get started with the DRF project, follow these steps:
 1. Clone the repository:
     `git clone https://github.com/AnirudhJS07/CRUD-API-Store.git`
 2. Navigate to the project directory:
-    `cd spinny`
+    `cd CRUD-API-Store`
 3. Create and Activate Virtual Environment
     `python -m venv env`
 4. Install Project Dependencies
