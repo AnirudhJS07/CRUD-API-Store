@@ -8,12 +8,10 @@ This repository contains a Django REST Framework (DRF) project. It is designed t
 - CRUD (Create, Read, Update, Delete) operations for different models
 - API endpoints for accessing and manipulating data
 - Integration with Django Admin for easy management of models
-- 25 Different Language Models
-- Output is a representation of Errors, Suggestions, and Corrected Sentence.
 
 ## Installation
 
-To get started with the DRF project, follow these steps:
+To get started with the project, follow these steps:
 
 1. Clone the repository:
     `git clone https://github.com/AnirudhJS07/CRUD-API-Store.git`
